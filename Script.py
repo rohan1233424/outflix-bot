@@ -3,7 +3,7 @@ class script(object):
     
 I can search any movies webseries just join my group and search any movies ♻️
 group link <a href=https://t.me/+RBehEdoijsNhNTdl>CLICK HERE</a></b>
-Bro bot about ye dalna ♻️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ [ @OUTFLiX ]
+ ♻️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ [ @OUTFLiX ]
 
 🗨 ᴛᴇxᴛ ᴀɴʏ ᴅᴏᴜʙᴛs/ᴘʀᴏʙʟᴇᴍs↓ 
 ➠ <a https://t.me/OUTFLIXiBOT>CLICK HERE</a></b>"""
